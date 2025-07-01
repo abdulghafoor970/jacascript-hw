@@ -1,50 +1,50 @@
 
-// alert("welcome to javascript");
+alert("welcome to javascript");
 
-//  prompt("enter your name here to continue")
-
-
-//  var userName= prompt(" what is your name  ");
-
-//  var age= prompt(" what is your age ");
-
-//  console.log("username is", userName);
-
-//  console.log("age is ",age);
+  prompt("enter your name here to continue")
 
 
-// var color = prompt("color");
-// alert( "wow!" + color + " this is a nice color" );
+ var userName= prompt(" what is your name  ");
 
-//   var color = prompt("what is your favorite color ?");
-//      if (color === "red") {
-//         alert ("red is a great color for passion and energy ")
-// }
-// if (color === "blue") {
-//     alert ("blue is a calming color that represents trust and stability")
+ var age= prompt(" what is your age ");
 
-// }
-// if (color === "green") {
-//     alert ("green is a refreshing color that symbolizes nateure and growth ")
+ console.log("username is", userName);
 
-// }
-// if (color === "red and blue") {
-//     alert ("red and blue are commplementary colors that create a vibrant contrast")
-// 
+ console.log("age is ",age);
 
 
-// var num1 = + prompt ("  enter your number");
+var color = prompt("color");
+ alert( "wow!" + color + " this is a nice color" );
 
-//  var num2= + prompt (" enter your number ");
+   var color = prompt("what is your favorite color ?");
+    if (color === "red") {
+       alert ("red is a great color for passion and energy ")
+}
+ if (color === "blue") {
+     alert ("blue is a calming color that represents trust and stability")
 
-//  console.log( num1 + num2  )
+ }
+ if (color === "green") {
+     alert ("green is a refreshing color that symbolizes nateure and growth ")
+
+ }
+ if (color === "red and blue") {
+    alert ("red and blue are commplementary colors that create a vibrant contrast")
+ 
 
 
-//  var num1 = +prompt("enter first number ");
+ var num1 = + prompt ("  enter your number");
 
-//  var num2 = +prompt("enter second number");
+  var num2= + prompt (" enter your number ");
 
-//  console.log("your answer is" + (num1 + num2))
+  console.log( num1 + num2  )
+
+
+ var num1 = +prompt("enter first number ");
+
+  var num2 = +prompt("enter second number");
+
+  console.log("your answer is" + (num1 + num2))
 
 
  var userName = prompt ("what is your name ?");
